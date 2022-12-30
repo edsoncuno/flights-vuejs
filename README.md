@@ -1,6 +1,6 @@
 # flights-vue
 
-Esta es la version de vue 3 para la aplicacion "Flights"
+Esta es la version del fronted en vue 3 para la aplicacion "Flights"
 
 [![flights01.jpg](https://i.postimg.cc/XJfnYWTW/flights01.jpg)](https://postimg.cc/MMpC9C63)
 [![flights02.jpg](https://i.postimg.cc/1XMn4wLy/flights02.jpg)](https://postimg.cc/6425m2WP)
